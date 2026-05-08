@@ -293,7 +293,7 @@ int main()
 
     } while (choice != 8);
 
-    // Memory Release
+   
     for (int i = 0; i < accounts.size(); i++)
     {
         delete accounts[i];
