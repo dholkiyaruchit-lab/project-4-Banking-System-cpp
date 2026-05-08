@@ -13,6 +13,7 @@ Dynamic Memory Allocation
 This project allows users to create different bank account types and perform banking operations such as deposit, withdrawal, displaying account details, and interest calculation.
 
 Features
+
 Account Types
 Savings Account
 Current (Checking) Account
@@ -45,6 +46,8 @@ Derived Classes
 class SavingsAccount : public BankAccount
 class CheckingAccount : public BankAccount
 class FixedDepositAccount : public BankAccount
+
+
 Menu Options
 1. Create Savings Account
 2. Create Current Account
