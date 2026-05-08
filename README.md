@@ -57,11 +57,7 @@ Menu Options
 6. Display Account Info
 7. Calculate Interest
 8. Exit
-How to Run
-Compile
-g++ BankingSystem.cpp -o banking
-Execute
-./banking
+
 Example Output
 -- BANKING SYSTEM --
 1. Create Savings Account
